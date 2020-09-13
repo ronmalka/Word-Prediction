@@ -1,6 +1,5 @@
 Knowledge base for Word Prediction
 -------------------------------------------
-Ron Malka - 203694013
 The application generats a knowledge-base for Hebrew word-prediction system, based on Google 3-Gram Hebrew dataset, using Amazon Elastic Map-Reduce (EMR). 
 
 The output is stored in the following bucket: s3://assignment2bucket1992/finaloutput.txt
